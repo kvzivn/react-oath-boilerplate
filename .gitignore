@@ -1,0 +1,5 @@
+node_modules
+build
+*.map
+*.log
+.DS_store
