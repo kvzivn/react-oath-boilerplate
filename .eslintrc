@@ -17,5 +17,14 @@
         "indent": [2, "tab", {"SwitchCase": 1}],
         "react/prop-types": 1,
         "react/jsx-indent-props": [2, "tab"],
+    },
+    "globals": {
+        /* MOCHA */
+        "after"      : false,
+        "afterEach"  : false,
+        "before"     : false,
+        "beforeEach" : false,
+        "describe"   : false,
+        "it"         : false
     }
 }
