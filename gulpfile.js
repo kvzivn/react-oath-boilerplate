@@ -29,7 +29,7 @@ function handleErrors() {
 
 function buildScript(file, watch) {
 	const props = {
-		entries: ['./src/' + file],
+		entries: ['./js/' + file],
 		debug: true,
 		cache: {},
 		packageCache: {},
