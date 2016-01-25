@@ -1,2 +1,2 @@
-# A React boilerplate
-using Redux, a fake REST API, and Oath2
+# A simple React boilerplate
+With Redux, Browserify, Mocha, and Gulp
